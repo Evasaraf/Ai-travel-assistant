@@ -3,7 +3,6 @@
 
 A GenAI-powered travel planning web app that generates personalized itineraries, detects travel scams, and provides conversational travel assistance.
 
----
 
 ## 🚀 Features
 
@@ -12,7 +11,7 @@ A GenAI-powered travel planning web app that generates personalized itineraries,
 - 💬 Chat Assistant for travel queries
 - 📊 Budget-aware travel planning
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -21,7 +20,7 @@ A GenAI-powered travel planning web app that generates personalized itineraries,
 - HuggingFace API (LLM)
 - Requests
 
----
+
 
 ## ▶️ How to Run Locally
 
